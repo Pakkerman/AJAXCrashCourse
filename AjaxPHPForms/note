@@ -1,0 +1,4 @@
+- This files needed to be in .../XAMPP/xamppfiles/htdocs/ and uses php server to work
+- And manually type in url to http://localhost:80/AjaxPHPForms
+- The page will not refresh itself upon save by default
+- Using live server will cause PHP script not work as intended
